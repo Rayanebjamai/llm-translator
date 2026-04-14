@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+    <!-- Sets the context root.
+         The app will be reachable under /llm-translator -->
+    <context-root>/llm-translator</context-root>
+</jboss-web>
